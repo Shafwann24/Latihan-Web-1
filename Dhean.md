@@ -46,9 +46,9 @@
 <p>Kami sedang mempelajari <mark>HTML dasar</mark> dalam mata kuliah <b>Pemrograman Web</b> di Program Studi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang diberikan adalah cara membuat tampilan web sederhana untuk mengenal tag-tag dasar HTML.</p>
 
 mark : digunakan untuk menyoroti teks.  
-<b> : digunakan untuk membuat teks tebal (bold). 
-<i> : mengubah teks menjadi miring (italic). 
-<u> : digunakan untuk memberikan garis bawah pada teks.
+b : digunakan untuk membuat teks tebal (bold). 
+i : mengubah teks menjadi miring (italic). 
+u : digunakan untuk memberikan garis bawah pada teks.
  
 ![Cuplikan layar 2024-10-07 094214](https://github.com/user-attachments/assets/438183bc-ea41-46e9-87d3-3b4db37e22bd)
 
