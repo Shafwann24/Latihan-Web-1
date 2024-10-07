@@ -40,7 +40,8 @@
 
 1. Heading 1 untuk judul utama.
 2. Heading 2 untuk subjudul besar.
-3. Heading 3 hingga Heading 6 untuk sub-subjudul yang lebih kecil dari sebelumnya.
+3. Heading 3 hingga
+4. Heading 6 untuk sub-subjudul yang lebih kecil dari sebelumnya.
 
 
 
