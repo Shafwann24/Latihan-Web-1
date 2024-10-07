@@ -25,7 +25,7 @@
         sehingga membentuk satu kesatuan. Paragraf ini dibuat dengan menggunakan tag-tag dasar HTML.
     </p>
 <hr>
-<h1>Langkah 2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
+<h1>Langkah 2. Menambahkan judul menggunakan tag heading (h1 sampai h6)</h1>
  <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
@@ -53,7 +53,7 @@ mark : digunakan untuk menyoroti teks.
 ![Cuplikan layar 2024-10-07 094214](https://github.com/user-attachments/assets/438183bc-ea41-46e9-87d3-3b4db37e22bd)
 <hr>
 <h1>Langkah 4 : Menyisipkan Gambar</h1>
-<h3>menambahkan gambara</h3
+<h3>menambahkan gambar</h3
 <img src="download.png" width="200" title="Logo Universitas Pelita Bangsa" alt="Logo Universitas Pelita Bangsa">
 
 ![image](https://github.com/user-attachments/assets/35c60214-4168-408c-a239-270b042987ad)
