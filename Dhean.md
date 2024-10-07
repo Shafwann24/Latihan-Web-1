@@ -35,6 +35,7 @@
     <hr>
     
    ![image](https://github.com/user-attachments/assets/254bf9c6-afcd-477c-bc39-cf9aacdc209b)
+   
    Tag Heading digunakan untuk membuat judul dan subjudul dengan berbagai ukuran dan hierarki. Heading 1 memiliki ukuran terbesar, sedangkan Heading 6 adalah yang terkecil. Dalam kode ini, berbagai level heading digunakan untuk menampilkan judul dengan tingkatan berbeda: 
 
 <h3>1. Heading 1 untuk judul utama.
