@@ -1,5 +1,7 @@
 <h1>1.Membuat Paragraf</h1>
-![image](https://github.com/user-attachments/assets/f6b633f3-4db4-4009-aa4a-7bbe9e114c04)
+
+![Cuplikan layar 2024-10-07 080015](https://github.com/user-attachments/assets/6977ea64-b64b-4fbe-8605-001a39873186)
+
  <p>
         Kami sedang mempelajari HTML dasar dalam mata kuliah pemrograman web 
         di Program Studi Teknik Informatika Universitas Pelita Bangsa. Pada pertemuan pertama, 
