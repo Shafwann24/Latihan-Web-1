@@ -47,5 +47,3 @@ mark : untuk meng-highlight teks
 <b : untuk menebalkan (bold)
 <i : mengubah menjadi font italic
 <u : untuk menggaris bawahi
-
-
