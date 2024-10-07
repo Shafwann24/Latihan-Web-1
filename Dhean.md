@@ -1,4 +1,4 @@
-1.<h1>Membuat Paragraf</h1>
+<h1>1.Membuat Paragraf</h1>
 ![image](https://github.com/user-attachments/assets/f6b633f3-4db4-4009-aa4a-7bbe9e114c04)
  <p>
         Kami sedang mempelajari HTML dasar dalam mata kuliah pemrograman web 
@@ -10,7 +10,7 @@
         sehingga membentuk satu kesatuan. Paragraf ini dibuat dengan menggunakan tag-tag dasar HTML.
     </p>
 
-  <h1>ketika menggunakan align="center"</h1>h1>
+  <h2>ketika menggunakan align="center"</h2>
 
   setelah menggunakan align="center"
   ![image](https://github.com/user-attachments/assets/417a92ef-99fd-4135-9373-4980e134b478)
@@ -24,5 +24,5 @@
         sehingga membentuk satu kesatuan. Paragraf ini dibuat dengan menggunakan tag-tag dasar HTML.
     </p>
 
-2. Menambahkan judul menggunakan tag heading (h1 sampai h5)
+<h1>2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
 
