@@ -42,6 +42,10 @@
 - Heading 2 untuk subjudul besar.
 - Heading 3 hingga Heading 6 menampilkan judul yang lebih kecil dari sebelumnya dan digunakan untuk sub-sub judul.
 
-
+<h1>3. Pemformatan Teks</h1>
+mark : untuk meng-highlight teks
+<b : untuk menebalkan (bold)
+<i : mengubah menjadi font italic
+<u : untuk menggaris bawahi
 
 
