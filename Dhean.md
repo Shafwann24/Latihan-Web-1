@@ -38,9 +38,9 @@
    
    Tag Heading digunakan untuk membuat judul dan subjudul dengan berbagai ukuran dan hierarki. Heading 1 memiliki ukuran terbesar, sedangkan Heading 6 adalah yang terkecil. Dalam kode ini, berbagai level heading digunakan untuk menampilkan judul dengan tingkatan berbeda: 
 
-<h3>1. Heading 1 untuk judul utama.
-    2. Heading 2 untuk subjudul besar.
-    3. Heading 3 hingga Heading 6 untuk sub-subjudul yang lebih kecil dari sebelumnya.</h3>
+1. Heading 1 untuk judul utama.
+2. Heading 2 untuk subjudul besar.
+3. Heading 3 hingga Heading 6 untuk sub-subjudul yang lebih kecil dari sebelumnya.
 
 
 
