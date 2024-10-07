@@ -1,4 +1,4 @@
-<h1>1.Membuat Paragraf</h1>
+<h1>Langkah1.Membuat Paragraf</h1>
 
 ![Cuplikan layar 2024-10-07 080015](https://github.com/user-attachments/assets/6977ea64-b64b-4fbe-8605-001a39873186)
 
@@ -25,7 +25,7 @@
         sehingga membentuk satu kesatuan. Paragraf ini dibuat dengan menggunakan tag-tag dasar HTML.
     </p>
 <hr>
-<h1>2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
+<h1>Langkah2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
  <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
@@ -42,8 +42,11 @@
 - Heading 2 untuk subjudul besar.
 - Heading 3 hingga Heading 6 menampilkan judul yang lebih kecil dari sebelumnya dan digunakan untuk sub-sub judul.
 
-<h1>3. Pemformatan Teks</h1>
-mark : untuk meng-highlight teks
-<b : untuk menebalkan (bold)
-<i : mengubah menjadi font italic
-<u : untuk menggaris bawahi
+<h1>Langkah3. Pemformatan Teks</h1>
+mark : digunakan untuk menyoroti teks  
+<b> : digunakan untuk membuat teks tebal (bold)  
+<i> : mengubah teks menjadi miring (italic)  
+<u> : digunakan untuk memberikan garis bawah pada teks
+ 
+![Cuplikan layar 2024-10-07 094214](https://github.com/user-attachments/assets/438183bc-ea41-46e9-87d3-3b4db37e22bd)
+
