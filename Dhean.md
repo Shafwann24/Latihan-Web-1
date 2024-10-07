@@ -41,7 +41,7 @@
 - Heading 1 sebagai judul utama.
 - Heading 2 untuk subjudul besar.
 - Heading 3 hingga Heading 6 menampilkan judul yang lebih kecil dari sebelumnya dan digunakan untuk sub-sub judul.
-
+<hr>
 <h1>Langkah 3. Pemformatan Teks</h1>
 <p>Kami sedang mempelajari <mark>HTML dasar</mark> dalam mata kuliah <b>Pemrograman Web</b> di Program Studi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang diberikan adalah cara membuat tampilan web sederhana untuk mengenal tag-tag dasar HTML.</p>
 
@@ -51,13 +51,13 @@ mark : digunakan untuk menyoroti teks.
 <u> : digunakan untuk memberikan garis bawah pada teks.
  
 ![Cuplikan layar 2024-10-07 094214](https://github.com/user-attachments/assets/438183bc-ea41-46e9-87d3-3b4db37e22bd)
-
+<hr>
 <h1>Langkah 4 : Menyisipkan Gambar</h1>
 <h3>menambahkan gambara</h3
 <img src="download.png" width="200" title="Logo Universitas Pelita Bangsa" alt="Logo Universitas Pelita Bangsa">
 
 ![image](https://github.com/user-attachments/assets/35c60214-4168-408c-a239-270b042987ad)
-
+<hr>
 <h1>Langkah 5 : Menambahkan Hyperlink</h1>
     <nav>
         <a href="lab1_tag_dasar.html">Dasar HTML</a>
