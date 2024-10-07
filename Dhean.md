@@ -1,4 +1,4 @@
-<h1>Langkah1.Membuat Paragraf</h1>
+<h1>Langkah 1.Membuat Paragraf</h1>
 
 ![Cuplikan layar 2024-10-07 080015](https://github.com/user-attachments/assets/6977ea64-b64b-4fbe-8605-001a39873186)
 
@@ -25,7 +25,7 @@
         sehingga membentuk satu kesatuan. Paragraf ini dibuat dengan menggunakan tag-tag dasar HTML.
     </p>
 <hr>
-<h1>Langkah2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
+<h1>Langkah 2. Menambahkan judul menggunakan tag heading (h1 sampai h5)</h1>
  <h1>Heading 1</h1>
     <h2>Heading 2</h2>
     <h3>Heading 3</h3>
@@ -42,7 +42,7 @@
 - Heading 2 untuk subjudul besar.
 - Heading 3 hingga Heading 6 menampilkan judul yang lebih kecil dari sebelumnya dan digunakan untuk sub-sub judul.
 
-<h1>Langkah3. Pemformatan Teks</h1>
+<h1>Langkah 3. Pemformatan Teks</h1>
 <p>Kami sedang mempelajari <mark>HTML dasar</mark> dalam mata kuliah <b>Pemrograman Web</b> di Program Studi <i>Teknik Informatika</i> <u>Universitas Pelita Bangsa</u>. Pelajaran pertama yang diberikan adalah cara membuat tampilan web sederhana untuk mengenal tag-tag dasar HTML.</p>
 
 mark : digunakan untuk menyoroti teks.  
